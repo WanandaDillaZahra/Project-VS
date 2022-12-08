@@ -1,0 +1,13 @@
+C:\Users\AdM\source\repos\dt.buku\dt.buku\bin\Debug\dt.buku.exe.config
+C:\Users\AdM\source\repos\dt.buku\dt.buku\bin\Debug\dt.buku.exe
+C:\Users\AdM\source\repos\dt.buku\dt.buku\bin\Debug\dt.buku.pdb
+C:\Users\AdM\source\repos\dt.buku\dt.buku\bin\Debug\System.Data.OleDb.dll
+C:\Users\AdM\source\repos\dt.buku\dt.buku\bin\Debug\System.Data.OleDb.xml
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.csprojAssemblyReference.cache
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.Form1.resources
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.Properties.Resources.resources
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.csproj.GenerateResource.cache
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.csproj.CoreCompileInputs.cache
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.csproj.CopyComplete
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.exe
+C:\Users\AdM\source\repos\dt.buku\dt.buku\obj\Debug\dt.buku.pdb
